@@ -1,0 +1,2 @@
+# testzanarednjevjezbe
+aaaaaaaaovojenajbolejjejejejeaaaaaaaaaaaplalcalalal
