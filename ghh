@@ -1,0 +1,23 @@
+[33mcommit 6d425a69e52ffa380b606252e160fbd96c1d49fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: iga <igorlea1462@gmail.com>
+Date:   Sun Dec 18 01:15:00 2022 +0100
+
+    removed mistake folder
+
+[33mcommit 6af35879219d74c830372821a2366af8bb6cae4c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Iga1337 <120453939+Iga1337@users.noreply.github.com>
+Date:   Sun Dec 18 01:08:08 2022 +0100
+
+    created gitignore
+
+[33mcommit 092b86265f72a8dae2409ed2daee49df0db4eae7[m
+Author: Iga1337 <120453939+Iga1337@users.noreply.github.com>
+Date:   Sun Dec 18 01:07:17 2022 +0100
+
+    added licnece
+
+[33mcommit 36e816f71fc4c28bb55d75db6422979f023fa3e6[m
+Author: Iga1337 <120453939+Iga1337@users.noreply.github.com>
+Date:   Sun Dec 18 01:05:48 2022 +0100
+
+    created readme
